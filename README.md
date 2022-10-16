@@ -1,6 +1,9 @@
 # sangsangini
 
 A new Flutter project.
+I've made a mobile application with flutter.
+In this application you can make your match with just one click but this is a demo application.
+In this app you can create your account and than you can find other profiles and explore many more.
 
 ## Getting Started
 
