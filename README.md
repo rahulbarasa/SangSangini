@@ -1,4 +1,4 @@
-# sangsangini
+# sangsangini : A matrimonial mobile application made with flutter
 
 A new Flutter project.
 I've made a mobile application with flutter.
